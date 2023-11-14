@@ -15,6 +15,13 @@ const members: Member[] = [
     blogUrl: 'https://redhat123456.github.io/router_index/'
   },
   {
+    name: '池溟昌胤',
+    avatar：'https://img1.baidu.com/it/u=4155685643,781819570&fm=253&fmt=auto&app=138&f=JPEG?w=509&h=500',
+    description：'只是一个想学网安的縩篝罢了',
+    githubUrl：'https://github.com/8cmcy8',
+    blogUrl：'https://8cmcy8.github.io/'
+  },
+  {
     name: 'yww',
     avatar: 'github:jaslli',
     description: '表面很菜，其实很强',
