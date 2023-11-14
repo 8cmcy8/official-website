@@ -11,8 +11,15 @@ const members: Member[] = [
     name: 'redhat',
     avatar: 'github:redhat123456',
     description: '题不可一日不刷',
-    githubUrl: 'https://github.com/redhat123456',
+    githubUrl: 'https://8cmcy8.github.io/',
     blogUrl: 'https://redhat123456.github.io/router_index/'
+  },
+  {
+    name: '池溟昌胤',
+    avatar: 'https://img1.baidu.com/it/u=4155685643,781819570&fm=253&fmt=auto&app=138&f=JPEG?w=509&h=500',
+    description: '想学网安的縩篝罢了',
+    githubUrl: 'https://github.com/8cmcy8',
+    blogUrl: 'https://8cmcy8.github.io/'
   },
   {
     name: 'yww',
