@@ -19,7 +19,7 @@ const members: Member[] = [
     avatar: 'https://img1.baidu.com/it/u=4155685643,781819570&fm=253&fmt=auto&app=138&f=JPEG?w=509&h=500',
     description: '一个想学王安的縩鞲罢了',
     githubUrl: 'https://github.com/8cmcy8',
-    blogUrl: 'https://8cmcy8.github.io/'
+    blogUrl: 'https://8cmcy8.github.io/docs/'
   },
   {
     name: 'yww',
